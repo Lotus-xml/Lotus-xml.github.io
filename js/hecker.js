@@ -5,6 +5,7 @@ let hecker=`
 <head>
 <meta content="text/html;charset=utf-8" http-equiv="Content-Type">
 <meta content="utf-8" http-equiv="encoding">
+<meta name="keywords" content="Lotus, lotuspyc, coding, lotus.pyc, Karma, Hacked, pwned, seized, hacker, mast3rc, femboys">
 <title>Louts Was Here (:</title>
 
 <style>
