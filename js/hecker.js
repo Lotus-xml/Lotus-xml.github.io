@@ -127,8 +127,8 @@ body {
 <p style="font-size:16px;white-space: nowrap;" class="nprinsley-text-blupelan"><a class="cummies" href="mailto:mast3rc@ccmail.uk">mast3rc@ccmail.uk</a></p>
 <p style="font-size:16px;white-space: nowrap;" class="balls nprinsley-text-redan">Feel Free To Contact Me UwU!</p>
 <div class="center">
-  <div class="glitch" data-text="Karma On Top " style="white-space: nowrap;font-size:18px;"
-  <font color="red" face="5"><font color="blue">Lotus On <font color="white">Top</font>
+  <div class="glitch" data-text="Karma On Top" style="white-space: nowrap;font-size:16px;"
+  <font color="red" face="5"><font color="blue">Lotus On <font color="red">Top</font>
   </div>
 <div class="center">
   <br>
