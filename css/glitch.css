@@ -5,7 +5,7 @@ html,body {
   height: 100%;
 }
 body {
-  background: background-image: url('https://www.drodd.com/images16/black-picture7.jpg'); background-repeat: no-repeat;background-attachment: fixed; background-size: cover;
+  background: black;
   font-family: 'Chilanka', sans-serif;
 }
 .glitch-wrapper {
@@ -18,7 +18,7 @@ body {
   align-items: center;
 }
 .glitch {
-  color: magenta;
+  color: white;
   font-size: 45px;
   text-transform: upercase;
   position: relative;
