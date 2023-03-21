@@ -5,7 +5,7 @@ html,body {
   height: 100%;
 }
 body {
-  background: black;
+  background: background-image: url('https://www.drodd.com/images16/black-picture7.jpg'); background-repeat: no-repeat;background-attachment: fixed; background-size: cover;
   font-family: 'Chilanka', sans-serif;
 }
 .glitch-wrapper {
