@@ -122,7 +122,7 @@ body {
 <br>
 <img src="https://media.discordapp.net/attachments/1088239475429212160/1088241041926275213/CatMafia.gif" width="155" height="105" style="white-space: nowrap;" alt="Cat-Mafia">
 </p
-<p style="font-size:20px;white-space: nowrap;"> <a href= "http://catmafia.abuser.eu/">Join The Catmafia Discord Server! </a>
+<p style="font-size:16px;white-space: nowrap;"> <a href= "http://catmafia.abuser.eu/">Join The Catmafia Discord Server! </a>
 </p>
 <p style="font-size:20px;white-space: nowrap;"> <a href= "https://lotus-xml.github.io/uwu.htm"> Click me! </a>
 </p>
