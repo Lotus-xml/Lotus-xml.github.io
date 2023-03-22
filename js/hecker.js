@@ -122,9 +122,9 @@ body {
 <br>
 <img src="https://media.discordapp.net/attachments/1088239475429212160/1088241041926275213/CatMafia.gif" width="155" height="105" style="white-space: nowrap;" alt="Cat-Mafia">
 </p
-<p style="font-size:16px;white-space: nowrap;"> <a href= "http://catmafia.abuser.eu/">Join The Catmafia Discord Server! </a>
+<p style="font-size:20px;white-space: nowrap;"> <a href= "http://catmafia.abuser.eu/">Join Catmafia!</a>
 </p>
-<p style="font-size:20px;white-space: nowrap;"> <a href= "https://lotus-xml.github.io/uwu.htm"> Click me! </a>
+<p style="font-size:20px;white-space: nowrap;"> <a href= "https://lotus-xml.github.io/uwu.htm">Click me!</a>
 </p>
 <p style="font-size:16px;white-space: nowrap;" class="nprinsley-text-blupelan"><a class="cummies" href="mailto:mast3rc@ccmail.uk">mast3rc@ccmail.uk</a></p>
 <p style="font-size:16px;white-space: nowrap;" class="balls nprinsley-text-redan">Feel Free To Contact Me UwU!</p>
