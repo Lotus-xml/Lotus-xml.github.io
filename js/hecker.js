@@ -141,7 +141,7 @@ body {
 </balls>
 <br>
 <marquee behavior="alternate">
-<img src="https://media.discordapp.net/attachments/943914370944106516/954535349810516048/heckercet.jpg?width=355&height=300" alt="HECKER CAT!">
+<img src="https://media.discordapp.net/attachments/943914370944106516/954535349810516048/heckercet.jpg?width=415&height=300" alt="HECKER CAT!">
 <p> <a align="center" href="https://media.discordapp.net/attachments/943914370944106516/954535349810516048/heckercet.jpg?width=595&height=380"> :3 Hecker Cat Was Here! </a></p>
 </marquee>
 </div>
