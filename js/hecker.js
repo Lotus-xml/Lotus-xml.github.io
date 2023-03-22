@@ -118,7 +118,7 @@ body {
 <a>Your Website Has Been Seized By Lotus, Take The L!</a>
 <br>
 <img src="https://cdn.discordapp.com/icons/948421527471272007/a_31befad9bdcc2c5f7a0e53104fd47f24.gif" style="white-space: nowrap;" alt="Karma">
-<p style="font-size:20px;white-space: nowrap;"> <a href= "https://www.instagram.com/karma_.ngo/">Check Out Karma's Instagram! </a>
+<p style="font-size:20px;white-space: nowrap;"> <a href= "https://www.instagram.com/karma_.ngo/">Check Out Karma's Instagram!</a>
 <br>
 <img src="https://media.discordapp.net/attachments/1088239475429212160/1088241041926275213/CatMafia.gif" width="155" height="105" style="white-space: nowrap;" alt="Cat-Mafia">
 </p
