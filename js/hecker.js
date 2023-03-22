@@ -119,7 +119,9 @@ body {
 <br>
 <img src="https://cdn.discordapp.com/icons/948421527471272007/a_31befad9bdcc2c5f7a0e53104fd47f24.gif" style="white-space: nowrap;" alt="Karma">
 <p style="font-size:20px;white-space: nowrap;"> <a href= "https://www.instagram.com/karma_.ngo/">Check Out Karma's Instagram! </a>
-</p>
+<br>
+<img src="https://media.discordapp.net/attachments/1088239475429212160/1088241041926275213/CatMafia.gif" width="155" height="105" style="white-space: nowrap;" alt="Cat-Mafia">
+</p
 <p style="font-size:20px;white-space: nowrap;"> <a href= "http://catmafia.abuser.eu/">Join The Catmafia Discord Server! </a>
 </p>
 <p style="font-size:20px;white-space: nowrap;"> <a href= "https://lotus-xml.github.io/uwu.htm"> Click me! </a>
@@ -139,7 +141,7 @@ body {
 </balls>
 <br>
 <marquee behavior="alternate">
-<img src="https://media.discordapp.net/attachments/943914370944106516/954535349810516048/heckercet.jpg?width=595&height=380" alt="HECKER CAT!">
+<img src="https://media.discordapp.net/attachments/943914370944106516/954535349810516048/heckercet.jpg?width=355&height=300" alt="HECKER CAT!">
 <p> <a align="center" href="https://media.discordapp.net/attachments/943914370944106516/954535349810516048/heckercet.jpg?width=595&height=380"> :3 Hecker Cat Was Here! </a></p>
 </marquee>
 </div>
