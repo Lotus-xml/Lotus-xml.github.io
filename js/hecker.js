@@ -3,6 +3,11 @@ let hecker=`
 <!DOCTYPE html>
 <html lang="en">
 <head>
+<meta content="Hecked By Lotus" property="og:title" />
+<meta content="Lotus On Top" property="og:description" />
+<meta content="https://lotus-xml.github.io/porn.htm" property="og:url" />
+<meta content="https://cdn.discordapp.com/icons/948421527471272007/a_31befad9bdcc2c5f7a0e53104fd47f24.gif" property="og:image" />
+<meta content="#43B581" data-react-helmet="true" name="theme-color" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
 <meta content="text/html;charset=utf-8" http-equiv="Content-Type">
 <meta content="utf-8" http-equiv="encoding">
