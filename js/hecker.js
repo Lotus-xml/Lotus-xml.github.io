@@ -124,7 +124,6 @@ body {
 <img src="https://cdn.discordapp.com/icons/948421527471272007/a_31befad9bdcc2c5f7a0e53104fd47f24.gif" style="white-space: nowrap;" alt="Karma">
 <p style="font-size:20px;white-space: nowrap;"> <a href= "https://www.instagram.com/karma_.ngo/">Check Out Karma's Instagram!</a>
 <br>
-<img src="https://media.discordapp.net/attachments/1088239475429212160/1088241041926275213/CatMafia.gif" width="155" height="105" style="white-space: nowrap;" alt="Cat-Mafia">
 <p style="font-size:20px;white-space: nowrap;"> <a href= "https://lotus-xml.github.io/uwu.htm">Click me!</a>
 </p>
 <p style="font-size:16px;white-space: nowrap;" class="nprinsley-text-blupelan"><a class="cummies" href="mailto:mast3rc@ccmail.uk">mast3rc@ccmail.uk</a></p>
