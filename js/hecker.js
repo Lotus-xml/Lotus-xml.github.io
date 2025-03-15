@@ -125,9 +125,6 @@ body {
 <p style="font-size:20px;white-space: nowrap;"> <a href= "https://www.instagram.com/karma_.ngo/">Check Out Karma's Instagram!</a>
 <br>
 <img src="https://media.discordapp.net/attachments/1088239475429212160/1088241041926275213/CatMafia.gif" width="155" height="105" style="white-space: nowrap;" alt="Cat-Mafia">
-</p
-<p style="font-size:20px;white-space: nowrap;"> <a href= "https://www.ilovefuckingyour.mom/catmafia">Join Catmafia!</a>
-</p>
 <p style="font-size:20px;white-space: nowrap;"> <a href= "https://lotus-xml.github.io/uwu.htm">Click me!</a>
 </p>
 <p style="font-size:16px;white-space: nowrap;" class="nprinsley-text-blupelan"><a class="cummies" href="mailto:mast3rc@ccmail.uk">mast3rc@ccmail.uk</a></p>
@@ -145,8 +142,8 @@ body {
 </balls>
 <br>
 <marquee behavior="alternate">
-<img src="https://media.discordapp.net/attachments/943914370944106516/954535349810516048/heckercet.jpg?width=415&height=300" alt="HECKER CAT!">
-<p> <a align="center" href="https://media.discordapp.net/attachments/943914370944106516/954535349810516048/heckercet.jpg?width=595&height=380"> :3 Hecker Cat Was Here! </a></p>
+<img src="https://raw.githubusercontent.com/Lotus-xml/Lotus-xml.github.io/refs/heads/main/pics/heckercet.jpg" alt="HECKER CAT!">
+<p> <a align="center" href="https://raw.githubusercontent.com/Lotus-xml/Lotus-xml.github.io/refs/heads/main/pics/heckercet.jpg"> :3 Hecker Cat Was Here! </a></p>
 </marquee>
 </div>
 <br>
